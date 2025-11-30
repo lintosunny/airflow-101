@@ -168,3 +168,4 @@
 {"timestamp":"2025-11-30T10:44:48.383888","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/celery.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-11-30T10:45:19.180282","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/celery.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-11-30T10:45:49.974836","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/celery.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-11-30T10:46:20.518291","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/celery.py","logger":"airflow.models.dagbag.DagBag"}
